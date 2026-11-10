@@ -1,11 +1,11 @@
 {
-    "updateEnabled": true,
+    "updateEnabled": false,
     "urls": [
         "https://reffpa.com/L?tag=d_2540765m_97c_&site=2540765&ad=97&r=registration"
     ],
     "offers": [
         {
-            "enabled": true,
+            "enabled": false,
             "title": "Join 1xBet now and claim $250 bonus",
             "image": "https://i.imgur.com/MwLXZdU.jpeg"
         }
